@@ -1,0 +1,22 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davepx/bots.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davepx/bots/issues"
+  },
+  "homepage": "https://github.com/davepx/bots#readme"
+}
